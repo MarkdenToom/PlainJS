@@ -5,7 +5,7 @@ A collection of mini projects I've made to practice JavaScript.
 
 Site is currently not live. ETA soon(tm)
 
-If you can't wait for the full release of this site you can download any of the single project folders and view the mini projects by opening the .html files using a browser.
+If you can't wait for the full release of this site you can download any of the single project folders and view any of the mini projects by opening the .html file using a browser.
 
 ## Contains
 * Connect four game
